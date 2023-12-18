@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine Learning Forecasting Model
+# Machine-Learning Model
+Machine Learning Sales Forecasting Model
