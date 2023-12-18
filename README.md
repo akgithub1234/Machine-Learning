@@ -1,2 +1,2 @@
 # Machine-Learning Model
-Machine Learning Sales Forecasting Model
+Random Forest Sales Forecasting Model
